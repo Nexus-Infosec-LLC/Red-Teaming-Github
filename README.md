@@ -1,4 +1,4 @@
-# Red-Teaming-Github
+# Resources for Red teaming github enviornments
 You are tasked to conduct a test of github in a company's enviornment. How will you proceed with it from an adversarial point of view to identify and show risk?
 
 Reconnaissance tool for GitHub code search. 
